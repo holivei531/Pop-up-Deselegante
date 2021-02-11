@@ -34,6 +34,6 @@
 
 ## :memo: Licença
 
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA][https://github.com/holivei531/] para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/holivei531/Pop-up-Deselegante/blob/master/License.txt) para obter mais informações.
 
 Feito com ❤️ por Hildebrando Junior 
