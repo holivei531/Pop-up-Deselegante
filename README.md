@@ -28,12 +28,12 @@
 
 ## 🛠 Tecnologias
 
-- [HTML][html] 
-- [CSS][css]
-- [JavaScript][javascript]
+- [HTML](https://pt.wikipedia.org/wiki/HTML) 
+- [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
 
 ## :memo: Licença
 
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/holivei531/Pop-up-Deselegante/blob/master/License.txt) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/holivei531/Pop-up-Deselegante/blob/master/License) para obter mais informações.
 
 Feito com ❤️ por Hildebrando Junior 
