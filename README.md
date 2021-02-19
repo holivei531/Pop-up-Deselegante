@@ -39,4 +39,5 @@ Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.c
 ### Link da aplicação
 Você pode acessar facilmente a aplicaçao clicando [aqui](https://holivei531.github.io/Pop-up-Deselegante/).
 
+---
 <p align="center">Feito com ❤️ por <strong>Hildebrando Junior</strong></p>
